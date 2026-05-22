@@ -10,8 +10,11 @@ Hands-on practice and lab environments
 📚 Certifications & Learning
 
 CCNA (In Progress)
+
 Security+
+
 CCST Cybersecurity
+
 (ISC)² CC
 
 📫 Connect With Me
