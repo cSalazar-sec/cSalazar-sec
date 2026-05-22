@@ -3,14 +3,17 @@
 <!--
 **cSalazar-sec/cSalazar-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💻 IT professional passionate about Networking and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Working On
+CCNA studies and networking labs
+Hands-on practice and lab environments
+
+📚 Certifications & Learning
+CCNA (In Progress)
+Security+
+CCST Cybersecurity
+(ISC)² CC
+
+📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/christopher-salazar-s/
