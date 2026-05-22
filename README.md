@@ -5,7 +5,7 @@
 🚀 Currently Working On
 
 CCNA studies and networking labs
-Hands-on practice and lab environments
+- Hands-on practice and lab environments
 
 📚 Certifications & Learning
 
@@ -15,7 +15,7 @@ Hands-on practice and lab environments
 - (ISC)² CC
 
 📫 Connect With Me
-LinkedIn: https://www.linkedin.com/in/christopher-salazar-s/
+- LinkedIn: https://www.linkedin.com/in/christopher-salazar-s/
 
 
 
