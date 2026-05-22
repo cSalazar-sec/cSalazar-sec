@@ -4,7 +4,7 @@
 
 🚀 Currently Working On
 
-CCNA studies and networking labs
+- CCNA studies and networking labs
 - Hands-on practice and lab environments
 
 📚 Certifications & Learning
