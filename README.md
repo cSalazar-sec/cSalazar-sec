@@ -8,7 +8,7 @@
 
 📚 Certifications & Learning
 
-- CCNA (Persuing)
+- CCNA (Pursuing)
 - Security+
 - CCST Cybersecurity
 - (ISC)² CC
