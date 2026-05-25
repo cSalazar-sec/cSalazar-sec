@@ -4,12 +4,11 @@
 
 🚀 Currently Working On
 
-- CCNA studies and networking labs
-- Hands-on practice and lab environments
+- CCNA studies, hands-on practice and lab environments
 
 📚 Certifications & Learning
 
-- CCNA (In Progress)
+- CCNA (Persuing)
 - Security+
 - CCST Cybersecurity
 - (ISC)² CC
